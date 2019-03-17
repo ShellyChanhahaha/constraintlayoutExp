@@ -1,8 +1,8 @@
-#实验内容
+# 实验内容
 
 此实验为约束布局的练习
 
-#关键代码
+# 关键代码
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -99,7 +99,7 @@
 </android.support.constraint.ConstraintLayout>
 ```
 
-#结果截图
+# 结果截图
 
-![1552653830709](F:\androidworkplace\constraintlayoutExp\%5CUsers%5CShemd%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1552653830709.png)
+![1552653830709](https://i.loli.net/2019/03/17/5c8d8eabbbb63.png)
 
